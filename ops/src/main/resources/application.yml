@@ -1,0 +1,21 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: ops
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root1234
+    url: jdbc:mysql://localhost:3306/cloud
+    type: com.alibaba.druid.pool.DruidDataSource
+    cloud:
+      nacos:
+        config:
+          server-addr: 127.0.0.1:8848
+        discovery:
+          server-addr: 127.0.0.1:8848
+mybatis-plus:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
