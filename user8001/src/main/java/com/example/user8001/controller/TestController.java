@@ -24,9 +24,4 @@ public class TestController {
     public void doB(){
         serviceB.doB();
     }
-
-    @GetMapping("/gitTest")
-    public void gitTest(){
-        System.out.println("gitTest");
-    }
 }
