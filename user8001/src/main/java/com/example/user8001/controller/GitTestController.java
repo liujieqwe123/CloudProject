@@ -5,8 +5,6 @@ public class GitTestController {
         System.out.println("fdkjdsfjsdjsd");
         System.out.println("fkjsdjfdskjds");
         System.out.println("jgkdhkjfgfdj");
-        System.out.println("jgkdhkjfgfdj5644556");
-        System.out.println("jgkhjgpojhgoighhgj[p78po79");
-        System.out.println("8674fsddsfsd");
+        System.out.println("测试revert");
     }
 }
