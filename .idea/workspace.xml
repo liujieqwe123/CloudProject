@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0591249a-4ac7-46d1-a40e-06086ff5f3ed" name="Changes" comment="test reset hard5">
+    <list default="true" id="0591249a-4ac7-46d1-a40e-06086ff5f3ed" name="Changes" comment="test revert1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user8001/src/main/java/com/example/user8001/controller/GitTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user8001/src/main/java/com/example/user8001/controller/GitTestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,49 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702181218538</updated>
     </task>
-    <task id="LOCAL-00005" summary="test reset hard">
-      <created>1702181873977</created>
+    <task id="LOCAL-00005" summary="test revert1">
+      <created>1702182539855</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1702181873977</updated>
+      <updated>1702182539855</updated>
     </task>
-    <task id="LOCAL-00006" summary="test reset hard2">
-      <created>1702181915850</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1702181915850</updated>
-    </task>
-    <task id="LOCAL-00007" summary="test reset hard2">
-      <created>1702182126960</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1702182126960</updated>
-    </task>
-    <task id="LOCAL-00008" summary="test reset hard3">
-      <created>1702182159546</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1702182159546</updated>
-    </task>
-    <task id="LOCAL-00009" summary="test reset hard4">
-      <created>1702182174744</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1702182174744</updated>
-    </task>
-    <task id="LOCAL-00010" summary="test reset hard5">
-      <created>1702182187165</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1702182187165</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,11 +215,8 @@
     <MESSAGE value="update test" />
     <MESSAGE value="test reset" />
     <MESSAGE value="test reset2" />
-    <MESSAGE value="test reset hard" />
-    <MESSAGE value="test reset hard2" />
-    <MESSAGE value="test reset hard3" />
-    <MESSAGE value="test reset hard4" />
     <MESSAGE value="test reset hard5" />
-    <option name="LAST_COMMIT_MESSAGE" value="test reset hard5" />
+    <MESSAGE value="test revert1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test revert1" />
   </component>
 </project>
