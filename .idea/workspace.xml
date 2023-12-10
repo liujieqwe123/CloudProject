@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0591249a-4ac7-46d1-a40e-06086ff5f3ed" name="Changes" comment="test revert1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user8001/src/main/java/com/example/user8001/controller/GitTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user8001/src/main/java/com/example/user8001/controller/GitTestController.java" afterDir="false" />
-    </list>
+    <list default="true" id="0591249a-4ac7-46d1-a40e-06086ff5f3ed" name="Changes" comment="test revert3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +25,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -161,7 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1702182539855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test revert1">
+      <created>1702183070098</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702183070098</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test revert2">
+      <created>1702183098759</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702183098759</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test revert3">
+      <created>1702183147522</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702183147522</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +234,8 @@
     <MESSAGE value="test reset2" />
     <MESSAGE value="test reset hard5" />
     <MESSAGE value="test revert1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test revert1" />
+    <MESSAGE value="test revert2" />
+    <MESSAGE value="test revert3" />
+    <option name="LAST_COMMIT_MESSAGE" value="test revert3" />
   </component>
 </project>

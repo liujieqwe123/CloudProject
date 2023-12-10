@@ -6,6 +6,9 @@ public class GitTestController {
         System.out.println("fkjsdjfdskjds");
         System.out.println("jgkdhkjfgfdj");
         System.out.println("测试revert3");
-        System.out.println("测试cherry-pick");
+        System.out.println("测试cherry-pick1");
+        System.out.println("测试cherry-pick2");
+        System.out.println("测试cherry-pick3");
+        System.out.println("测试cherry-pick4");
     }
 }
