@@ -24,4 +24,9 @@ public class TestController {
     public void doB(){
         serviceB.doB();
     }
+
+    @GetMapping("/doBC")
+    public void doBC(){
+        serviceB.doB();
+    }
 }
