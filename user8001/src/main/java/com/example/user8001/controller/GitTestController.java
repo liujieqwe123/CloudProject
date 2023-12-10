@@ -10,5 +10,7 @@ public class GitTestController {
         System.out.println("测试cherry-pick2");
         System.out.println("测试cherry-pick3");
         System.out.println("测试cherry-pick4");
+        System.out.println("测试cherry-pick5");
+        System.out.println("测试cherry-pick6");
     }
 }
