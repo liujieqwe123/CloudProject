@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0591249a-4ac7-46d1-a40e-06086ff5f3ed" name="Changes" comment="update test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user8001/src/main/java/com/example/user8001/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user8001/src/main/java/com/example/user8001/controller/TestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "spring.configuration.checksum": "e83a9d533f134f0ade3792d573c7ee35"
   }
 }]]></component>
@@ -117,7 +116,7 @@
       <updated>1702098674031</updated>
       <workItem from="1702098675615" duration="525000" />
       <workItem from="1702099211483" duration="1539000" />
-      <workItem from="1702178333115" duration="645000" />
+      <workItem from="1702178333115" duration="1632000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1702099585758</created>

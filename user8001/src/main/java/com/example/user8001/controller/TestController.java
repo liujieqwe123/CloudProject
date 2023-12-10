@@ -29,4 +29,10 @@ public class TestController {
     public void doBC(){
         serviceB.doB();
     }
+
+    @GetMapping("/doReSet")
+    public void doReSet(){
+        serviceB.doB();
+    }
+
 }
