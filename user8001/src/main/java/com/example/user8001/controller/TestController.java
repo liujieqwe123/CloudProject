@@ -33,6 +33,7 @@ public class TestController {
     @GetMapping("/doReSet")
     public void doReSet(){
         serviceB.doB();
+        System.out.println("gfjdnkghnfjudjkf");
     }
 
 }
